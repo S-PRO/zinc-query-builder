@@ -1,0 +1,8 @@
+node_modules
+.dockerignore
+.gitignore
+.next
+README.md
+
+# Ignore dockerfiles
+Dockerfile
